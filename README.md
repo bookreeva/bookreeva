@@ -36,19 +36,19 @@
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-  <img src="" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="" />
   <img src="" />
   <img src="" />
   <img src="" />
 </div>
 <div>
-<h3> 𝙈𝙮 𝙨𝙩𝙖𝙩𝙨:</h3>
+<h3> :fire: 𝙈𝙮 𝙨𝙩𝙖𝙩𝙨:</h3>
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chanfoxx&theme=earth" 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bookreeva&theme=earth" 
     alt="GitHub Streak" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanfoxx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bookreeva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
